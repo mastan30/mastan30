@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mastan30
+- 👀 I’m interested in Data Science, Java Business Applications, Developing, Data Analysis, Raspberry PI servers, Docker networking
+- 🌱 I’m always learning
